@@ -3,11 +3,25 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { Routes, Route, BrowserRouter } from 'react-router-dom';
+import Graffiti from './components/Graffiti';
+import Illustrations from './components/Illustrations';
+import Paintings from './components/Paintings';
+import WaterColors from './components/WaterColors';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <BrowserRouter>
+    <Routes>
+    <Route path='/' element={<App />}>
+      <Route path='Illustrations' element={<Illustrations />}></Route>
+      <Route path='Graffiti' element={<Graffiti />}></Route>
+      <Route path='Paintings' element={<Paintings />}></Route>
+      <Route path='WaterColors' element={<WaterColors />}></Route>
+    </Route>
+    </Routes>
+    </BrowserRouter>
   </React.StrictMode>
 );
 
