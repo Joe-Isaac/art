@@ -1,0 +1,49 @@
+{
+        "images": [
+            {
+            "mediaUrl": "https://i.picsum.photos/id/1003/1181/1772.jpg?hmac=oN9fHMXiqe9Zq2RM6XT-RVZkojgPnECWwyEF1RvvTZk",
+            "metaData": {
+                    "type": "'image'",
+                    "height": 200,
+                    "width": 100,
+                    "title": "sample-title",
+                    "description": "sample-description",
+                    "focalPoint": [0, 0],
+                    "link": {
+                            "url": "http://example.com",
+                            "target": "_blank"
+                    }
+            }
+        },
+        {
+            "mediaUrl": "https://randomwordgenerator.com/img/picture-generator/57e6d14a4252b10ff3d8992cc12c30771037dbf852547848752878d39e4a_640.jpg"
+        },
+        {
+            "mediaUrl": "https://randomwordgenerator.com/img/picture-generator/55e1d14b4a5aac14f1dc8460962e33791c3ad6e04e507440752f72d39748c1_640.jpg"
+        },
+        {
+            "mediaUrl": "https://randomwordgenerator.com/img/picture-generator/54e3d5434b56b10ff3d8992cc12c30771037dbf85254794e722a7dd2954f_640.jpg"
+        },
+        {
+            "mediaUrl": "https://randomwordgenerator.com/img/picture-generator/55e2d74b495aaf14f1dc8460962e33791c3ad6e04e507440712f7bd6964dc5_640.jpg"
+        },
+        {
+            "mediaUrl": "https://randomwordgenerator.com/img/picture-generator/5fe2d4414352b10ff3d8992cc12c30771037dbf85254794075287cd69145_640.jpg"
+        },
+        {
+            "mediaUrl": "https://randomwordgenerator.com/img/picture-generator/57e1dc454b56a914f1dc8460962e33791c3ad6e04e50744172287ad1934ac0_640.jpg"
+        },
+        {
+            "mediaUrl": "https://randomwordgenerator.com/img/picture-generator/57e5d44a4c54ab14f1dc8460962e33791c3ad6e04e50744172297bd5954ccc_640.jpg"
+        },
+        {
+            "mediaUrl": "https://randomwordgenerator.com/img/picture-generator/57e7dc4b4c5ba914f1dc8460962e33791c3ad6e04e5074417c2f7dd5904cc0_640.jpg"
+        },
+        {
+            "mediaUrl": "https://randomwordgenerator.com/img/picture-generator/50e3d3434b5ab10ff3d8992cc12c30771037dbf85254794e722e7ed5904c_640.jpg"
+        },
+        {
+            "mediaUrl": "https://randomwordgenerator.com/img/picture-generator/gdb88e214954e986ff79401d06496b93e5b80c5a124b1bf02c828faf910e3d6e01e787dc8bf602e26c585ac4e8dbbb76c_640.jpg"
+        }
+        ]
+}
